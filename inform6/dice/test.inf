@@ -1,0 +1,12 @@
+Include "Parser";
+Include "VerbLib";
+Include "Grammar";
+Include "Dice";
+
+[Initialise; ];
+
+#end
+
+* test
+
+> roll 3d6
